@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = FibonacciTests
+build_property.ProjectDir = C:\repo\CSharpSample\FibonacciTests\
